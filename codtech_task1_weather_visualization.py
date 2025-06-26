@@ -41,7 +41,7 @@ def visualize_weather_data(city, data):
 # Main execution
 if __name__ == "__main__":
     # Replace this with your actual OpenWeatherMap API key
-    api_key = "YOUR_API_KEY"
+    api_key = "709a67e33a5309f69704f4975321f793"
     city = "Coimbatore"
 
     data = fetch_weather_data(city, api_key)
